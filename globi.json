@@ -2,6 +2,7 @@
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
   "format": "barnes",
   "resources": {
-    "barnes/references.csv": "references.csv"
+    "barnes/references.csv": "references.csv",
+    "http://esapubs.org/archive/ecol/E089/051/Predator_and_prey_body_sizes_in_marine_food_webs_vsn4.txt": "Predator_and_prey_body_sizes_in_marine_food_webs_vsn4.txt"
   }
 }
