@@ -1,6 +1,7 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
   "format": "barnes",
+  "citation": "Barnes, C. et al., 2008. Predator and prey body sizes in marine food webs. Ecology, 89(3), pp.881–881. Available at: http://dx.doi.org/10.1890/07-1551.1 . Data provided by Carolyn Barnes. Also available at http://www.esapubs.org/Archive/ecol/E089/051/ .",
   "resources": {
     "barnes/references.csv": "references.csv",
     "http://esapubs.org/archive/ecol/E089/051/Predator_and_prey_body_sizes_in_marine_food_webs_vsn4.txt": "Predator_and_prey_body_sizes_in_marine_food_webs_vsn4.txt"
