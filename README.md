@@ -1,5 +1,5 @@
 # barnes
-[![Build Status](https://travis-ci.org/globalbioticinteractions/barnes.svg?branch=master)](https://travis-ci.org/globalbioticinteractions/barnes)
+[![Build Status](https://travis-ci.com/globalbioticinteractions/barnes.svg?branch=master)](https://travis-ci.com/globalbioticinteractions/barnes)
 
 The file [references.csv] is an intermediate file that was created to link the short references to its full citation.
 
